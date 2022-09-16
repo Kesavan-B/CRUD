@@ -1,0 +1,22 @@
+.fields{
+    margin-bottom: 20px;
+    
+}
+.fields input{
+   background: #fff;
+    
+}
+div#demo-simple-select-helper {
+    background: #fff;
+}
+.App{
+    background:whitesmoke;
+}
+.darkmode{
+    background: rgba(11, 10, 10, 0.833);
+    color: #fff;
+}
+.lightmode{
+    background: #fff;
+    color: #000;
+}
